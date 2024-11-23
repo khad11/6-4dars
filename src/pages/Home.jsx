@@ -13,7 +13,7 @@ function Home() {
             </p>
             <button className="info-btn">Download Resume</button>
           </div>
-          <img className="john-main-img" src="./john-main.png" alt="john" />
+          <img className="john-main-" src="../john-main.png" alt="john" />
         </div>
       </section>
       <section className="sec-2">
@@ -58,7 +58,7 @@ function Home() {
             <span>Featured works</span>
           </div>
           <div className="work-dashboard darshboard">
-            <img className="dashboard-img" src="./dashboard.png" alt="" />
+            <img className="dashboard-img" src="../dashboard.png" alt="" />
             <div className="dashboard-info info">
               <h3 className="info-title">Designing Dashboards</h3>
               <div className="info-div">
@@ -75,7 +75,7 @@ function Home() {
           <hr className="hr" />
           {/* 2-qismi bu  */}
           <div className="work-dashboard darshboard hidden">
-            <img className="dashboard-img" src="./illustration.png" alt="" />
+            <img className="dashboard-img" src="../illustration.png" alt="" />
             <div className="dashboard-info info">
               <h3 className="info-title">Vibrant Portraits of 2020</h3>
               <div className="info-div">
@@ -92,7 +92,7 @@ function Home() {
           <hr className="hr hidden" />
           {/* 3-qismi bu  */}
           <div className="work-dashboard darshboard hidden">
-            <img className="dashboard-img" src="./typography.png" alt="" />
+            <img className="dashboard-img" src="../typography.png" alt="" />
             <div className="dashboard-info info">
               <h3 className="info-title">36 Days of Malayalam type</h3>
               <div className="info-div">

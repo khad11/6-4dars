@@ -7,16 +7,16 @@ function Footer() {
           <div className="footer-main">
             <div className="footer-links">
               <a href="">
-                <img src="./fb.svg" alt="instagram" />
+                <img src="../fb.svg" alt="instagram" />
               </a>
               <a href="#">
-                <img src="./Group.svg" alt="facebook" />
+                <img src="../Group.svg" alt="facebook" />
               </a>
               <a href="#">
-                <img src="./insta.svg" alt="twitter" />
+                <img src="../insta.svg" alt="twitter" />
               </a>
               <a href="#">
-                <img src="./Linkedin.svg" alt="linkidin" />
+                <img src="../Linkedin.svg" alt="linkidin" />
               </a>
             </div>
             <p>Copyright ©2020 All rights reserved </p>

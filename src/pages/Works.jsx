@@ -5,7 +5,7 @@ function Works() {
         <div className="container work">
           <h1 className="work-title">Work</h1>
           <div className="work-dashboard darshboard">
-            <img className="dashboard-img" src="./dashboard.png" alt="" />
+            <img className="dashboard-img" src="../dashboard.png" alt="" />
             <div className="dashboard-info info">
               <h3 className="info-title">Designing Dashboards</h3>
               <div className="info-div">
@@ -22,7 +22,7 @@ function Works() {
           <hr className="hr work-hidden" />
           {/* 2-qismi bu  */}
           <div className="work-dashboard darshboard work-hidden">
-            <img className="dashboard-img" src="./illustration.png" alt="" />
+            <img className="dashboard-img" src="../illustration.png" alt="" />
             <div className="dashboard-info info">
               <h3 className="info-title">Vibrant Portraits of 2020</h3>
               <div className="info-div">
@@ -39,7 +39,7 @@ function Works() {
           <hr className="hr work-hidden " />
           {/* 3-qismi bu  */}
           <div className="work-dashboard darshboard work-hidden ">
-            <img className="dashboard-img" src="./typography.png" alt="" />
+            <img className="dashboard-img" src="../typography.png" alt="" />
             <div className="dashboard-info info">
               <h3 className="info-title">36 Days of Malayalam type</h3>
               <div className="info-div">
@@ -56,7 +56,7 @@ function Works() {
           <hr className="hr work-hidden" />
           {/* 4-qismi bu  */}
           <div className="work-dashboard darshboard work-hidden">
-            <img className="dashboard-img" src="./component.png" alt="" />
+            <img className="dashboard-img" src="../component.png" alt="" />
             <div className="dashboard-info info">
               <h3 className="info-title">Components</h3>
               <div className="info-div">
@@ -73,7 +73,7 @@ function Works() {
           <hr className="hr" />
           {/* 5-qismi bu  */}
           <div className="work-dashboard darshboard work-unhidden ">
-            <img className="dashboard-img" src="./landing.png" alt="" />
+            <img className="dashboard-img" src="../landing.png" alt="" />
             <div className="dashboard-info info">
               <h3 className="info-title">Designing Landing pages</h3>
               <div className="info-div">
