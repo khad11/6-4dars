@@ -13,7 +13,7 @@ function Home() {
             </p>
             <button className="info-btn">Download Resume</button>
           </div>
-          <img className="john-main-" src="../john-main.png" alt="john" />
+          <img className="john-main-img" src="../john-main.png" alt="john" />
         </div>
       </section>
       <section className="sec-2">
